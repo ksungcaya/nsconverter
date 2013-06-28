@@ -1,0 +1,15 @@
+{
+  "name": "NS Converter",
+  "description": "A number system converter from bases 2-16.",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/css/images/icon-16.png",
+    "48": "/css/images/icon-48.png",
+    "128": "/css/images/icon-128.png"
+  },
+  "developer": {
+    "name": "Kenneth Ace Sungcaya",
+    "url": "http://fb.com/nekneth"
+  },
+  "default_locale": "en"
+}
