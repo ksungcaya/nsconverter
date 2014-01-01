@@ -1,6 +1,8 @@
 {
-  "verification_key" : "1ef52900d7964d79b90f89da0f29053d",
-  "version" : "1.00(0)",
-  "type" : "web",
-  "last_update" : "2014-01-01 02:12:10+4000"
+	"verification_key" : "1ef52900d7964d79b90f89da0f29053d",
+	"launch_path": "index.html",
+	"version" : "1.00",
+	"type" : "web",
+	"last_update" : "2014-01-01 02:12:10+4000",
+    "created_by": "Kenneth Ace Sungcaya"
 }
